@@ -1,0 +1,385 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ArtifactsWorkspaceSettings">
+    <artifacts-to-build>
+      <artifact name="hnty:jar" />
+    </artifacts-to-build>
+  </component>
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="BranchesTreeState">
+    <expand />
+    <select />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="8d4d3dc8-6fef-400c-ad72-c9155220afdd" name="Default Changelist" comment="河南信息统计职业学院-精华平台学生自动化系统  第1次提交" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Kotlin File" />
+        <option value="spring-beans.schema" />
+        <option value="Interface" />
+        <option value="HTML File" />
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="PUSH_TAGS">
+      <GitPushTagMode>
+        <option name="argument" value="--tags" />
+        <option name="title" value="All" />
+      </GitPushTagMode>
+    </option>
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="JsbtTreeLayoutManager">
+    <layout place="tools.popupGrunt">
+      <scroll-view-position x="0" y="0" />
+    </layout>
+  </component>
+  <component name="MavenImportPreferences">
+    <option name="generalSettings">
+      <MavenGeneralSettings>
+        <option name="localRepository" value="E:\Program Files\JetBrains\local repository" />
+        <option name="mavenHome" value="E:\Program Files\JetBrains\IntelliJ IDEA 2020.2.3\plugins\maven\lib\maven3" />
+        <option name="userSettingsFile" value="C:\Users\LiSir\.m2\settings.xml" />
+      </MavenGeneralSettings>
+    </option>
+  </component>
+  <component name="ProjectId" id="1jl92q63PWJOJakNtSXvbxDhCY7" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="DefaultHtmlFileTemplate" value="HTML File" />
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="nodejs_package_manager_path" value="npm" />
+    <property name="project.structure.last.edited" value="Modules" />
+    <property name="project.structure.proportion" value="0.15" />
+    <property name="project.structure.side.proportion" value="0.2" />
+    <property name="settings.editor.selected.configurable" value="org.jetbrains.plugins.github.ui.GithubSettingsConfigurable" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\LiSir\IdeaProjects\Spring_AOP\src\main\resources" />
+      <recent name="C:\Users\LiSir\IdeaProjects\hnty\src\main\resources" />
+      <recent name="C:\Users\LiSir\IdeaProjects\hnty" />
+      <recent name="C:\Users\LiSir\IdeaProjects\hnty\src" />
+    </key>
+  </component>
+  <component name="RunAnythingCache">
+    <option name="myCommands">
+      <command value="mvn tomcat7:run" />
+    </option>
+  </component>
+  <component name="RunManager" selected="JUnit.SpringTest.test2">
+    <configuration name="UserController" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.coco360.demo.UserController" />
+      <module name="Spring_ioc" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.coco360.demo.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration default="true" type="ArquillianJUnit" factoryName="" nameIsGenerated="true">
+      <option name="arquillianRunConfiguration">
+        <value>
+          <option name="containerStateName" value="" />
+        </value>
+      </option>
+      <option name="TEST_OBJECT" value="class" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="SpringTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="Spring_ioc" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.coco360.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.coco360" />
+      <option name="MAIN_CLASS_NAME" value="com.coco360.SpringTest" />
+      <option name="TEST_OBJECT" value="class" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="SpringTest.test1" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="Spring_ioc" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.coco360.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.coco360" />
+      <option name="MAIN_CLASS_NAME" value="com.coco360.SpringTest" />
+      <option name="METHOD_NAME" value="test1" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="SpringTest.test2" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="Spring_ioc" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.coco360.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.coco360" />
+      <option name="MAIN_CLASS_NAME" value="com.coco360.SpringTest" />
+      <option name="METHOD_NAME" value="test2" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="index.html" type="JavascriptDebugType" temporary="true" nameIsGenerated="true" uri="http://localhost:54149/hnty/Spring_ioc/src/main/webapp/index.html" useBuiltInWebServerPort="true">
+      <method v="2" />
+    </configuration>
+    <configuration name="hnty [tomcat7:run]" type="MavenRunConfiguration" factoryName="Maven">
+      <MavenSettings>
+        <option name="myGeneralSettings" />
+        <option name="myRunnerSettings" />
+        <option name="myRunnerParameters">
+          <MavenRunnerParameters>
+            <option name="profiles">
+              <set />
+            </option>
+            <option name="goals">
+              <list>
+                <option value="tomcat7:run" />
+              </list>
+            </option>
+            <option name="pomFileName" value="pom.xml" />
+            <option name="profilesMap">
+              <map />
+            </option>
+            <option name="resolveToWorkspace" value="false" />
+            <option name="workingDirPath" value="$PROJECT_DIR$" />
+          </MavenRunnerParameters>
+        </option>
+      </MavenSettings>
+      <method v="2" />
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="JUnit.SpringTest.test2" />
+        <item itemvalue="JUnit.SpringTest.test1" />
+        <item itemvalue="JUnit.SpringTest" />
+        <item itemvalue="Application.UserController" />
+        <item itemvalue="JavaScript Debug.index.html" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="8d4d3dc8-6fef-400c-ad72-c9155220afdd" name="Default Changelist" comment="" />
+      <created>1604367609240</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1604367609240</updated>
+      <workItem from="1604367610753" duration="23839000" />
+      <workItem from="1604396015776" duration="3276000" />
+      <workItem from="1604401429728" duration="53904000" />
+      <workItem from="1604633799848" duration="3240000" />
+      <workItem from="1604654364935" duration="13976000" />
+      <workItem from="1604736799932" duration="534000" />
+      <workItem from="1604737373506" duration="4746000" />
+      <workItem from="1604749407338" duration="39000" />
+      <workItem from="1604751728414" duration="1169000" />
+      <workItem from="1604819698802" duration="1692000" />
+      <workItem from="1604908349303" duration="1495000" />
+      <workItem from="1604913719451" duration="1425000" />
+      <workItem from="1604933052304" duration="737000" />
+      <workItem from="1605015796644" duration="858000" />
+      <workItem from="1605082893717" duration="1994000" />
+      <workItem from="1605196848062" duration="5305000" />
+      <workItem from="1605239578648" duration="2284000" />
+      <workItem from="1605266084563" duration="736000" />
+      <workItem from="1605797721774" duration="231000" />
+      <workItem from="1605941241271" duration="1876000" />
+      <workItem from="1606113140556" duration="4991000" />
+      <workItem from="1606666390174" duration="2142000" />
+      <workItem from="1606717046735" duration="3604000" />
+      <workItem from="1606722084982" duration="1241000" />
+      <workItem from="1606891515437" duration="320000" />
+      <workItem from="1606892638426" duration="224000" />
+      <workItem from="1606922701080" duration="1192000" />
+      <workItem from="1607150297121" duration="615000" />
+      <workItem from="1607150935974" duration="112000" />
+      <workItem from="1607151069418" duration="204000" />
+      <workItem from="1607151295707" duration="5000000" />
+      <workItem from="1607156367988" duration="3563000" />
+      <workItem from="1607162248158" duration="5809000" />
+      <workItem from="1607930095886" duration="2326000" />
+      <workItem from="1607946769753" duration="5724000" />
+      <workItem from="1608017091789" duration="6062000" />
+      <workItem from="1608107963930" duration="2654000" />
+      <workItem from="1608198160996" duration="41000" />
+      <workItem from="1608198904572" duration="5204000" />
+      <workItem from="1608264320336" duration="2069000" />
+    </task>
+    <task id="LOCAL-00001" summary="河南信息统计职业学院-精华平台学生自动化系统  第1次提交">
+      <created>1608265626854</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1608265626854</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="1">
+          <value>
+            <State>
+              <option name="SHOW_ONLY_AFFECTED_CHANGES" value="true" />
+              <option name="FILTERS">
+                <map>
+                  <entry key="branch">
+                    <value>
+                      <list>
+                        <option value="HEAD" />
+                      </list>
+                    </value>
+                  </entry>
+                  <entry key="roots">
+                    <value>
+                      <list>
+                        <option value="$PROJECT_DIR$" />
+                      </list>
+                    </value>
+                  </entry>
+                </map>
+              </option>
+            </State>
+          </value>
+        </entry>
+      </map>
+    </option>
+    <option name="OPEN_GENERIC_TABS">
+      <map>
+        <entry key="1" value="TOOL_WINDOW" />
+      </map>
+    </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="河南信息统计职业学院-精华平台学生自动化系统  第1次提交" />
+    <option name="LAST_COMMIT_MESSAGE" value="河南信息统计职业学院-精华平台学生自动化系统  第1次提交" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="440" y="97" key="#Project_Structure" timestamp="1608264741390">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="440" y="97" key="#Project_Structure/0.0.1920.1040@0.0.1920.1040" timestamp="1608264741390" />
+    <state x="677" y="328" key="#com.intellij.fileTypes.FileTypeChooser" timestamp="1604408879312">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="677" y="328" key="#com.intellij.fileTypes.FileTypeChooser/0.0.1920.1040@0.0.1920.1040" timestamp="1604408879312" />
+    <state x="765" y="228" key="#com.intellij.ide.util.MemberChooser" timestamp="1608024031940">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="765" y="228" key="#com.intellij.ide.util.MemberChooser/0.0.1920.1040@0.0.1920.1040" timestamp="1608024031940" />
+    <state x="713" y="381" key="#com.intellij.ide.util.TreeClassChooserDialog" timestamp="1606717294391">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="713" y="381" key="#com.intellij.ide.util.TreeClassChooserDialog/0.0.1920.1040@0.0.1920.1040" timestamp="1606717294391" />
+    <state x="869" y="99" key="CommitChangelistDialog2" timestamp="1608265484556">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="869" y="99" key="CommitChangelistDialog2/0.0.1920.1040@0.0.1920.1040" timestamp="1608265484556" />
+    <state x="740" y="277" key="FileChooserDialogImpl" timestamp="1608265247905">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="740" y="277" key="FileChooserDialogImpl/0.0.1920.1040@0.0.1920.1040" timestamp="1608265247905" />
+    <state x="771" y="438" key="Github.CreateGistDialog" timestamp="1608264938786">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="771" y="438" key="Github.CreateGistDialog/0.0.1920.1040@0.0.1920.1040" timestamp="1608264938786" />
+    <state width="1877" height="232" key="GridCell.Tab.0.bottom" timestamp="1608265577682">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1877" height="232" key="GridCell.Tab.0.bottom/0.0.1920.1040@0.0.1920.1040" timestamp="1608265577682" />
+    <state width="1877" height="232" key="GridCell.Tab.0.center" timestamp="1608265577681">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1877" height="232" key="GridCell.Tab.0.center/0.0.1920.1040@0.0.1920.1040" timestamp="1608265577681" />
+    <state width="1877" height="232" key="GridCell.Tab.0.left" timestamp="1608265577681">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1877" height="232" key="GridCell.Tab.0.left/0.0.1920.1040@0.0.1920.1040" timestamp="1608265577681" />
+    <state width="1877" height="232" key="GridCell.Tab.0.right" timestamp="1608265577682">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1877" height="232" key="GridCell.Tab.0.right/0.0.1920.1040@0.0.1920.1040" timestamp="1608265577682" />
+    <state x="490" y="177" key="Maven.ArtifactSearchDialog" timestamp="1604372101847">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="490" y="177" key="Maven.ArtifactSearchDialog/0.0.1920.1040@0.0.1920.1040" timestamp="1604372101847" />
+    <state x="401" y="188" key="SettingsEditor" timestamp="1608266410747">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="401" y="188" key="SettingsEditor/0.0.1920.1040@0.0.1920.1040" timestamp="1608266410747" />
+    <state x="1104" y="244" key="Vcs.Push.Dialog.v2" timestamp="1608266072766">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="1104" y="244" key="Vcs.Push.Dialog.v2/0.0.1920.1040@0.0.1920.1040" timestamp="1608266072766" />
+    <state x="754" y="253" key="VcsDiffUtil.ChangesDialog" timestamp="1608265711533">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="754" y="253" key="VcsDiffUtil.ChangesDialog/0.0.1920.1040@0.0.1920.1040" timestamp="1608265711533" />
+    <state x="1523" y="417" key="git4idea.remote.GitConfigureRemotesDialog" timestamp="1608265989762">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="1523" y="417" key="git4idea.remote.GitConfigureRemotesDialog/0.0.1920.1040@0.0.1920.1040" timestamp="1608265989762" />
+    <state x="826" y="386" width="250" height="278" key="jetbrains.javascript.buildTools.run-task-popup" timestamp="1607156149252">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="826" y="386" width="250" height="278" key="jetbrains.javascript.buildTools.run-task-popup/0.0.1920.1040@0.0.1920.1040" timestamp="1607156149252" />
+    <state x="262" y="268" key="new project wizard" timestamp="1608023270781">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="262" y="268" key="new project wizard/0.0.1920.1040@0.0.1920.1040" timestamp="1608023270781" />
+    <state x="616" y="240" width="672" height="677" key="run.anything.popup" timestamp="1607951331472">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="616" y="240" width="672" height="677" key="run.anything.popup/0.0.1920.1040@0.0.1920.1040" timestamp="1607951331472" />
+    <state x="623" y="225" width="672" height="678" key="search.everywhere.popup" timestamp="1608018367412">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="623" y="225" width="672" height="678" key="search.everywhere.popup/0.0.1920.1040@0.0.1920.1040" timestamp="1608018367412" />
+    <state x="924" y="159" key="spring file set editor" timestamp="1607152154920">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="924" y="159" key="spring file set editor/0.0.1920.1040@0.0.1920.1040" timestamp="1607152154920" />
+  </component>
+</project>
