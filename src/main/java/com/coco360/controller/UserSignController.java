@@ -54,6 +54,9 @@ public class UserSignController {
     public void getPicture(HttpServletResponse response, PictureInfo pictureInfo) throws Exception {
         BufferedImage image = userRequestServices.createPicture(pictureInfo);
         ServletOutputStream os = response.getOutputStream();
+        response.setContentType("image/png");
         ImageIO.write(image,"png",os);
+        os.flush();
+        os.close();
     }
 }

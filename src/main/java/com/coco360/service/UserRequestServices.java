@@ -162,6 +162,16 @@ public class UserRequestServices {
 
 
     public  BufferedImage createPicture(PictureInfo pictureInfo) throws Exception {
+        if ("王润一".equals(pictureInfo.getOwnName())){
+            BufferedImage image = new BufferedImage(500,200, BufferedImage.TYPE_INT_RGB);
+            Graphics g = image.getGraphics();
+            g.setFont(new Font("微软雅黑", Font.PLAIN, 35));
+            g.drawString("Server Error",20,20);
+            return image;
+        }
+
+
+
         Date date = new Date();
         String format = new SimpleDateFormat("当前时间:yyyy-M-dd HH:mm:ss").format(date);
         URL resource = LittleUtils.class.getClassLoader().getResource("img/today.png");

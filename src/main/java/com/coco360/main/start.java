@@ -177,6 +177,8 @@ public class start {
 
 
                     }
+
+
                 }
                 try {
 
@@ -205,7 +207,7 @@ public class start {
                                 , all_openid));
                         boolean b = LittleUtils.checkOpenid(stringBuilder);
                         if (b) {
-                            Thread.sleep(classBackTime);
+                            Thread.sleep(read_openidTime);
                             continue;
                         } else {
                             System.out.println('[' + getDate() + ']' + stringBuilder.toString());
@@ -244,7 +246,7 @@ public class start {
                                 , all_openid));
                         boolean b = LittleUtils.checkOpenid(stringBuilder);
                         if (b) {
-                            Thread.sleep(checkCoursewareTime);
+                            Thread.sleep(read_openidTime);
                             continue;
                         } else {
 
@@ -285,7 +287,6 @@ public class start {
                         if (all_openid != null) {
                             if (all_openid.equals(Some_openid)) {
 
-
                             } else {
                                 System.out.println("[" + getDate() + "]openid 获取成功  " + all_openid);
                                 Some_openid = all_openid;
@@ -302,6 +303,7 @@ public class start {
 
                 } catch (Exception e) {
                     e.printStackTrace();
+                    continue;
                 }
 
             }
