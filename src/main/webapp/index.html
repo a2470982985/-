@@ -1,15 +1,55 @@
-<!DOCTYPE html>
-<html lang="en">
+<html>
 <head>
-    <meta charset="UTF-8">
-    <title>Title</title>
-
+    <meta charset="utf-8">
+    <LINK href="img/favicon.svg" type="image/x-icon" rel="shortcut icon">
+    <title>河南统院精华自助系统 - Design By LiSir</title>
 </head>
+<style>
+
+    div {
+        height: 30%;
+        width: 30%;
+        position: absolute;
+        top: 0;
+        bottom: 0;
+        left: 0;
+        right: 0;
+        margin: auto;
+    }
+    h1 {
+        position: absolute;
+        top: 10%;
+        left: 45%;
+        text-align: center;
+    }
+
+    #video_background{
+        position: absolute;
+        bottom: 0px;
+        right: 0px;
+        min-width: 100%;
+        min-height: 100%;
+        width: auto;
+        height: auto;
+        z-index: -1000;
+        overflow: hidden;
+    }
+
+</style>
 <body>
-河南统院签到平台
-designed by：Flik
-</body>
+
+<h1>Coding!</h1>
+<div>
+    <img src="img/favicon.svg">
+
+</div>
+<video id = "video_background" preload = "auto" autoplay = "true" loop = "loop">
+    <source src = "video.mp4"/>
+</video>
 <script>
-    window.location = "https://open.weixin.qq.com/connect/oauth2/authorize?appid=wx56e56264fc513745&redirect_uri=http%3A%2F%2Fwww.hntyxxh.com%2Fwx-api%2Fauth%2Fredirect%3ForgId%3D1%26isTeacher%3D0%26m%3Ds_ssr_hub&response_type=code&scope=snsapi_base&state=&uin=NDU2NjMzMjM%3D";
+
+    var videoa=document.getElementById(`video_background`)
+    videoa.contains=false;
 </script>
+</body>
 </html>
