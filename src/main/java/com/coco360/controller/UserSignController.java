@@ -18,6 +18,7 @@ public class UserSignController {
     @Autowired
     UserRequestServices userRequestServices;
 
+
     @GetMapping("/sign")
     @ResponseBody
     public RespMsg sign(@RequestParam String url){
